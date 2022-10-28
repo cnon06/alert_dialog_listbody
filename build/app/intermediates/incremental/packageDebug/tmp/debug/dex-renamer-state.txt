@@ -1,0 +1,4 @@
+#Fri Oct 28 16:53:21 TRT 2022
+base.0=E\:\\flutter_projects\\alert_dialog_listbody\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
