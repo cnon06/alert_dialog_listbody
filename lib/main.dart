@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-// The thing is we have to implement MaterialApp inside runApp() which is the root of the program.
+// The thing is we have to implement MaterialApp inside runApp() which is the root of the program.gg
 
 void main() => runApp(MaterialApp(
       home: MyApp(),
